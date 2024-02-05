@@ -2,6 +2,7 @@ import React from "react";
 import { Route, Routes } from "react-router-dom";
 import HomePage from "./pages/home-page";
 import ProductPage from "./pages/product-page";
+import "./styles/global.scss";
 function App() {
   return (
     <div>
